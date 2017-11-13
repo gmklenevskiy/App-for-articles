@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\article.o
+./release\list.o
+./release\description.o
+./release\selection_of_texts.o
+./release\dialog.o
+./release\dialog_for_selection.o
+./release\change_selection.o
+./release\moc_mainwindow.o
+./release\moc_dialog.o
+./release\moc_dialog_for_selection.o
+./release\moc_change_selection.o
+);

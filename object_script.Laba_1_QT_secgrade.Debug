@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\article.o
+./debug\list.o
+./debug\description.o
+./debug\selection_of_texts.o
+./debug\dialog.o
+./debug\dialog_for_selection.o
+./debug\change_selection.o
+./debug\moc_mainwindow.o
+./debug\moc_dialog.o
+./debug\moc_dialog_for_selection.o
+./debug\moc_change_selection.o
+);
